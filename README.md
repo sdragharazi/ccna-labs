@@ -44,51 +44,16 @@ Each lab includes: **Objective → Topology → IP Addressing Table → Configur
 
 | # | Topic | Notes | Lab | Status |
 |---|---|---|---|---|
-| 01 | Network Fundamentals | | | In progress |
-| 02 | OSI Model & Encapsulation | | | Not started |
-| 03 | Ethernet & Switching | | | Not started |
-| 04 | ARP & MAC Address Table | | | Not started |
-| 05 | IPv4 Addressing | | | Not started |
-| 06 | Subnetting & VLSM | | | Not started |
-| 07 | Cisco IOS Fundamentals | | | Not started |
-| 08 | VLAN & Trunking | | | Not started |
-| 09 | Inter-VLAN Routing | | | Not started |
-| 10 | STP & RSTP | | | Not started |
-| 11 | EtherChannel | | | Not started |
-| 12 | Routing Table & Administrative Distance | | | Not started |
-| 13 | Static & Default Routing | | | Not started |
-| 14 | OSPF (Single Area) | | | Not started |
-| 15 | DHCP & DNS | | | Not started |
-| 16 | NAT & PAT | | | Not started |
-| 17 | Access Control Lists | | | Not started |
-| 18 | IPv6 | | | Not started |
-| 19 | Network Security | | | Not started |
-| 20 | Automation & Programmability | | | Not started |
-
----
-
-## Lab Index
-
-| # | Lab | Level | Technologies | Link |
-|---|---|---|---|---|
-| 2-0 | Hardware Inventory | 1 | `show version`, `show switch`, `show inventory` | |
-
----
-
-## Cheatsheets
-
-| Topic | Link |
-|---|---|
-| Subnetting | |
-| Show Commands | |
-| Troubleshooting Flow | |
-| Cisco ↔ MikroTik Command Map | |
-
----
-
-## Certification Targets
-
-| Certification | Exam Code | Version | Status |
-|---|---|---|---|
-| CompTIA Network+ | N10-009 | v9 | Studying |
-| Cisco CCNA | 200-301 | v2.0 | Studying |
+| 00 | Lab Tools (Packet Tracer & PNETLab) | | | Not started |
+| 01 | Network Fundamentals | [notes](notes/01-network-fundamentals.md) | | Done |
+| 02 | Network Devices | [notes](notes/02-network-devices.md) | | In progress |
+| 03 | OSI Model & Encapsulation | | | Not started |
+| 04 | Ethernet & Switching | | | Not started |
+| 05 | ARP & MAC Address Table | | | Not started |
+| 06 | IPv4 Addressing | | | Not started |
+| 07 | Subnetting & VLSM | | | Not started |
+| 08 | Cisco IOS Fundamentals | | | Not started |
+| 09 | VLAN & Trunking | | | Not started |
+| 10 | Inter-VLAN Routing | | | Not started |
+| 11 | STP & RSTP | | | Not started |
+| 12 | EtherChannel | | |
