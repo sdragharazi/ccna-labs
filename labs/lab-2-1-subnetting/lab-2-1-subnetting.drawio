@@ -1,0 +1,92 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Go6xOHYKhBKEJ83n7Guv">
+    <mxGraphModel dx="1246" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ar-LnbzyRa09O58KjcbO-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="140" width="231" x="390" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=10;" value="" vertex="1">
+          <mxGeometry height="140" width="241" x="110" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-8" edge="1" parent="1" source="ar-LnbzyRa09O58KjcbO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ar-LnbzyRa09O58KjcbO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-13" connectable="0" parent="ar-LnbzyRa09O58KjcbO-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Gi0/0" vertex="1">
+          <mxGeometry relative="1" x="0.5464" y="-1" as="geometry">
+            <mxPoint x="1" y="-74" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-14" connectable="0" parent="ar-LnbzyRa09O58KjcbO-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="eth0" vertex="1">
+          <mxGeometry relative="1" x="0.7645" y="-1" as="geometry">
+            <mxPoint y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-10" edge="1" parent="1" source="ar-LnbzyRa09O58KjcbO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ar-LnbzyRa09O58KjcbO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-15" connectable="0" parent="ar-LnbzyRa09O58KjcbO-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Gi0/1" vertex="1">
+          <mxGeometry relative="1" x="-0.0854" y="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-16" connectable="0" parent="ar-LnbzyRa09O58KjcbO-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="eth0" vertex="1">
+          <mxGeometry relative="1" x="0.6621" y="1" as="geometry">
+            <mxPoint y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="90" as="sourcePoint" />
+            <mxPoint x="571" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-23" connectable="0" parent="ar-LnbzyRa09O58KjcbO-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Gi0/3" vertex="1">
+          <mxGeometry relative="1" x="0.2302" y="2" as="geometry">
+            <mxPoint y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-24" connectable="0" parent="ar-LnbzyRa09O58KjcbO-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="eth0" vertex="1">
+          <mxGeometry relative="1" x="0.6417" y="-1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-20" edge="1" parent="1" source="ar-LnbzyRa09O58KjcbO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ar-LnbzyRa09O58KjcbO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-21" connectable="0" parent="ar-LnbzyRa09O58KjcbO-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Gi0/2" vertex="1">
+          <mxGeometry relative="1" x="-0.6218" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-22" connectable="0" parent="ar-LnbzyRa09O58KjcbO-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="eth0" vertex="1">
+          <mxGeometry relative="1" x="0.441" y="3" as="geometry">
+            <mxPoint x="-2" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-2" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" value="SW1" vertex="1">
+          <mxGeometry height="60" width="60" x="380" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-3" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="PC-FANNI-2&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="261" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-4" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="PC-EDARI-2" vertex="1">
+          <mxGeometry height="60" width="60" x="541" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-6" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="PC-EDARI-1&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="411" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-7" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="PC-FANNI-1" vertex="1">
+          <mxGeometry height="60" width="60" x="131" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FANNI - 192.168.1.0/27 (255.255.255.224)" vertex="1">
+          <mxGeometry height="30" width="211" x="110" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-LnbzyRa09O58KjcbO-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EDARI - 192.168.1.32/28 (255.255.255.240)" vertex="1">
+          <mxGeometry height="30" width="200" x="411" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
